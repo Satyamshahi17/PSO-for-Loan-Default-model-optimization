@@ -51,8 +51,8 @@ This project uses the **UCI Lending Club Loan Dataset (30,000 records)** — a w
 # 📈 Model Results (PSO-Optimized)
 
 Below are the final evaluation metrics for each PSO-tuned model.
-The metrics below reflect performance on the majority class (non-defaulters).
-Detailed class-wise metrics, including defaulter-specific recall/precision, are shown inside each notebook.
+Note: These metrics represent performance on the majority class (non-defaulters).
+Full class-wise evaluation, including defaulter-specific precision and recall, is available inside each notebook.
 ---
 
 ## 🔶 1. PSO-Optimized XGBoost
@@ -157,4 +157,6 @@ This makes it the strongest choice for real-world credit-risk prediction where i
    ```bash
    git clone https://github.com/Satyamshahi17/PSO-for-Loan-Default-model-optimization.git
 
-
+## Author
+Satyam Kumar  
+Machine Learning Practitioner
