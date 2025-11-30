@@ -50,9 +50,10 @@ This project uses the **UCI Lending Club Loan Dataset (30,000 records)** — a w
 
 # 📈 Model Results (PSO-Optimized)
 
-Below are the final evaluation metrics for each PSO-tuned model.
-Note: These metrics represent performance on the majority class (non-defaulters).
-Full class-wise evaluation, including defaulter-specific precision and recall, is available inside each notebook.
+The tables below summarize the evaluation results for each PSO-optimized model.  
+The reported metrics correspond to the majority class (non-defaulters).  
+Detailed class-wise performance, including precision and recall for the minority defaulter class, is provided within the respective Jupyter notebooks.
+
 ---
 
 ## 🔶 1. PSO-Optimized XGBoost
