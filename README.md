@@ -160,4 +160,4 @@ This makes it the strongest choice for real-world credit-risk prediction where i
 
 ## Author
 Satyam Kumar  
-Machine Learning Practitioner
+CSE undergrad
